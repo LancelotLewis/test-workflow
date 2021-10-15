@@ -4,6 +4,10 @@ This project was bootstrapped with [Create Blocklet](https://github.com/blocklet
 
 This blocklet is a dapp project, which means this is a full-stack application. It's contained both `server` and `client` code.
 
+## Install on my ABT Node
+
+[![Install on my ABT Node](https://raw.githubusercontent.com/blocklet/development-guide/main/assets/install_on_abtnode.svg)](https://install.arcblock.io/?action=blocklet-install&meta_url=https%3A%2F%2Fgithub.com%2FLancelotLewis%2Ftest-workflow%2Freleases%2Fdownload%2Fv0.1.0%2Fblocklet.json)
+
 ## File Structure
 
 - public/ - static files
